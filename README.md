@@ -7,7 +7,7 @@ Um site dinâmico para acompanhar as últimas notícias e placares de futebol!
 - Interface moderna e responsiva  
 
 ## 📌 Como usar  
-1. Acesse [https://futebolarte.com](https://futebolarte.com)  
+1. Acesse [Universo do Futebol](https://futebolarte.com)
 2. Clique nos botões do menu para acessar notícias ou ver placares de jogos  
 3. Aproveite as atualizações em tempo real!  
 
